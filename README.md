@@ -32,8 +32,8 @@ Make sure you have Node.js and npm (or Yarn/Bun) installed.
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd secure-react
+   git clone https://github.com/husnifatah/web-security.git
+   cd web-security
    ```
 2. Install dependencies:
    ```bash
